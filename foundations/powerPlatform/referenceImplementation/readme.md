@@ -4,7 +4,7 @@ This user guide explains the Power Platform Landing Zones reference implementati
 
 | Reference implementation | Description | Deploy | 
 |:----------------------|:------------|--------|
-| Power Platform Landing Zones | All up architecture for Power Platform with landing zones (Environments) configured with security, governance, and compliance for scalable business applications - and industry solutions for professional and citizen developers | [![Deploy To Microsoft Cloud](../../../docs/deploytomicrosoftcloud.svg)](https://aka.ms/pplandingzones) |
+| Power Platform Landing Zones | All up architecture for Power Platform with landing zones (Environments) configured with security, governance, and compliance for scalable business applications - and industry solutions for professional and citizen developers | [![Deploy To Microsoft Cloud](../../../docs/deploytomicrosoftcloud.svg)](https://portal.azure.com/#view/Microsoft_Azure_CreateUIDef/CustomDeploymentBlade/uri/https%3A%2F%2Fraw.githubusercontent.com%2FeRepetto%2FIndustry%2Fmain%2Ffoundations%2FpowerPlatform%2FreferenceImplementation%2FppNorthStar-arm.json/uiFormDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FeRepetto%2FIndustry%2Fmain%2Ffoundations%2FpowerPlatform%2FreferenceImplementation%2FppNorthStar-portal.json) |
 
 ## Table of Contents
 
